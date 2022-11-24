@@ -1,0 +1,4 @@
+venv
+.env
+*.srt
+*.mp4
